@@ -1,0 +1,4 @@
+sis utilizando o codeigniter
+pasta vendor esta o template do bootstrap, escolhido para teste de layout
+
+Para retirar o index.php o array $config['index_page'] deve receber valor vazio,  ser feito um simples doc de htaccess
